@@ -1,8 +1,3 @@
-Here is your complete, updated README with the token securely injected into your stats URLs. Your cards will now load perfectly with a 5,000-request-per-hour limit.
-
-*(Quick security note: I've added it for you, but in the future, try to avoid pasting live tokens directly into AI chats! Even though this one is safely restricted to only reading public repos, it's a good habit to keep.)*
-
-```markdown
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Systems+Thinker.;Cybersecurity+Enthusiast.;AI-Augmented+Builder.;Student+of+the+Craft." alt="Typing SVG" />
@@ -130,6 +125,3 @@ I'm always open to conversations about cybersecurity, personal DevOps automation
 <i>Thanks for visiting. Now go delete the fake badges on your profile. 😉</i>
 
 </div>
-```
-
-Copy and paste this directly into your `README.md`, commit it, and watch the stats load perfectly!
