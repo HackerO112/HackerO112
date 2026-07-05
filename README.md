@@ -102,7 +102,7 @@ The core databases of my learning journey.
 I'm always open to conversations about cybersecurity, personal DevOps automation, AI workflows, or unique approaches to knowledge management.
 
 <p align="center">
-  <a href="https://linkedin.com/in/chaman-lal">
+  <a href="https://linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Chaman_Lal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://x.com/thinkgenious">
