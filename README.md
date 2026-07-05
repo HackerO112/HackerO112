@@ -1,212 +1,126 @@
+```markdown
+<div align="center">
 
+```bash
+> whoami
+> chaman_lal
+> initializing_profile...
+> [OK] System Ready.
+```
 
-# Introduction
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=4th+Semester+IT+Student;Cybersecurity+Enthusiast;AI-Powered+Builder;Breaking+things+to+understand+them." alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HackerO112&style=for-the-badge&color=green" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/HackerO112?style=for-the-badge&color=green" alt="Github follower">
-  <img src="https://img.shields.io/github/stars/HackerO112?style=for-the-badge&color=green" alt="Github stars">
-</p>
-
-<p align="center">
-  <img src="https://img.freepik.com/free-vector/stylish-welcome-lettering-banner-join-with-joy-happiness_1017-57675.jpg?t=st=1758725588~exp=1758729188~hmac=1c66115a2c043451f5bdc1ab9fb6a2a25af26178202fef5892c951f1b12338da&w=1060" alt="Banner" width="50%">
-</p>
-
-<p align="center">
-  <a href="https://github.com/HackerO112?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:c94946435@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/chaman-lal">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+</div>
 
 ---
 
-## 🚀 About Me
+### 🛑 The Honest Hook
+
+> *A few months ago, this README was full of fake skills, made-up blog posts, and buzzwords like "Kubernetes" and "Microservices" that I hadn't actually used. I copied it because I thought that's what a "real developer" looked like.*
+>
+> *I was wrong. This is who I actually am.*
+
+I'm Chaman. I don't have a decade of experience. I'm a 4th-semester IT student who loves tech, understands how systems work conceptually, and uses AI (GLM, Gemini) to bridge the gap between my ideas and the syntax. 
+
+I don't just prompt "make me an app." I design the architecture, understand the logic, and use AI as my compiler. Some call it "Vibe Coding." I call it being a fast learner.
+
+---
+
+### 🧠 My Actual Toolkit
+
+I know a bit of a lot of languages. I'm not a master of all of them, but I know enough to build whatever I need to build.
 
 ```javascript
 const chaman = {
-  name: "Chaman Lal",
-  username: "HackerO112",
-  email: "c94946435@gmail.com",
-  pronouns: "he/him",
-  code: ["""JavaScript", "Python", "Java", "C++", "HTML/CSS"],
-  tools: ["React", "Node.js", "Git", "Docker", "AWS"],
-  architecture: ["MVC", "Microservices", "Serverless"],
-  challenge: "Learning this to bulid me"
+  current_focus: ["Cybersecurity", "Building SPAs", "Digital Marketing"],
+  languages: ["JavaScript", "Python", "C++", "Java", "HTML/CSS"],
+  workflow: ["Vibe Coding (AI-Assisted)", "Git", "VS Code"],
+  learning: ["Network Sec", "API Integrations", "SEO & Growth Hacking"],
+  philosophy: "Understand the system. Use the best tools to build it."
 };
 ```
 
-I'm a passionate IT professional with expertise in full-stack development, cloud architecture, and cybersecurity. I love creating elegant solutions to complex problems and sharing knowledge with the developer community.
+<details>
+<summary><b>🔧 My Tech Stack (No Exaggeration)</b></summary>
+<br>
+
+```text
+Frontend    : HTML, CSS, Tailwind, Vanilla JS (I can build full UIs without React)
+Backend     : Node.js basics, Python scripting
+Security    : Currently exploring, learning the fundamentals of how networks break
+AI Workflow : GLM + Gemini Pro 3.1 for rapid prototyping and syntax generation
+Current     : 45-Day Digital Marketing Deep Dive (Learning the business side of tech)
+```
+</details>
 
 ---
 
+### 🚀 What I'm Actually Building
 
+I don't just consume tutorials; I ship things.
 
-**Description**: A brief description of your amazing project.
-
-**Tech Stack**: 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-**Key Features**:
-- 🧠 AI-powered analytics
-- ⚡ Real-time processing
-- 📊 Interactive visualizations
-- 🔒 Secure data handling
+**[Mastery OS — Tri-Core Edition](https://structured-learning.netlify.app)**
+*A single-file learning OS that runs entirely in the browser. No frameworks, no backend, just vanilla JS and pure UX design.*
+- 🪟 Three themes: Standard, Hacker (with CRT effects & audio), and Zen.
+- 🧠 Built-in SM-2 Spaced Repetition algorithm for flashcards.
+- 🤖 Integrated Feynman AI to call out gaps in your learning.
+- 🤫 *Built 100% using AI-assisted vibe coding.*
 
 ---
 
-## 🛠️ Skills & Expertise
+### 📡 Current Status
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,react,nodejs,html,css,aws,docker,git,linux,vscode,figma&perline=8" alt="Skills">
-</p>
-
-### Frontend Development
-- React, Angular, Vue.js
-- Responsive UI/UX Design
-- State Management (Redux, Context API)
-- CSS Frameworks (Tailwind, Bootstrap, Material-UI)
-
-### Backend Development
-- Node.js, Express, Django
-- RESTful API Design
-- Authentication & Authorization
-- Database Integration (SQL, NoSQL)
-
-### DevOps & Cloud
-- AWS, Azure, Google Cloud
-- Docker & Kubernetes
-- CI/CD Pipelines
-- Infrastructure as Code (Terraform)
+```text
+📍 Currently: Deep in a 45-day Digital Marketing training.
+🎯 Goal: Merging my technical skills with marketing to build things that actually reach people.
+🔓 Side Quest: Exploring cybersecurity and understanding the offensive side of tech.
+```
 
 ---
 
-## 📈 GitHub Stats
+### 📈 Real GitHub Stats
+
+*I don't have 10k stars yet. But I'm building in public, and the graph is only going up.*
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HackerO112&theme=dark&hide_border=true" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HackerO112&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackerO112&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HackerO112&theme=react-dark&hide_border=true&background=0d1117" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=HackerO112&show_icons=true&theme=react-dark&hide_border=true&bg_color=0d1117&title_color=22C55E&icon_color=22C55E" alt="GitHub Stats">
 </p>
 
 ---
 
-## 🏆 Achievements
+### 🌐 Connect With Me
+
+I'm always down to talk about cybersecurity, AI workflows, or weird ways to build apps. 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HackerO112&theme=darkhub&no-frame=true&margin-w=30" alt="Trophies">
-</p>
-
-
-
----
-
-## 📱 Connect With Me
-
-<p align="center">
-  <a href="https://x.com/thinkgenious">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+  <a href="https://linkedin.com/in/chaman-lal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.linkedin.com/in/chatgpt-undefined-0877ba362/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  <a href="https://x.com/thinkgenious">
+    <img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:c94946435@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://medium.com/@c94946435">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    <img src="https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
   <a href="https://dev.to/HackerO112">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
-  </a>
-  <a href="https://stackoverflow.com/users/31562789/chaman-lal">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
+    <img src="https://img.shields.io/badge/Dev.to-Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
   </a>
 </p>
 
 ---
 
-## 📝 Latest Blog Posts
+<div align="center">
 
-<!-- BLOG-POST-LIST:START -->
-- [How to Build a Scalable Microservices Architecture](https://medium.com/@HackerO112/scalable-microservices)
-- [Top 10 Security Practices for Web Applications](https://dev.to/HackerO112/security-practices)
-- [The Future of AI in Software Development](https://medium.com/@HackerO112/ai-in-development)
-<!-- BLOG-POST-LIST:END -->
+```text
+"If you can't explain it simply, you don't understand it well enough." 
+                                                  - Richard Feynman
+```
 
----
+<i>Thanks for stopping by. Go build something cool today.</i>
 
-## 🤝 Let's Collaborate
-
-I'm always open to collaborating on interesting projects and innovative ideas. If you have a project that you want to bring to life or need help with, feel free to reach out!
-
-- 💼 **Freelance Work**: Available for part-time consulting
-- 🤝 **Open Source**: Looking to contribute to meaningful projects
-- 👥 **Mentorship**: Happy to guide aspiring developers
-
----
-
-## 📊 Activity Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=HackerO112&theme=react-dark&hide_border=true" alt="Activity Graph">
-</p>
-
----
-
-## 🎯 Current Goals
-
-- [ ] Contribute to  open source projects
-- [ ] Reach  GitHub stars
-- [ ] Launch a SaaS product
-- [ ] Speak at a major tech conference
-- [ ] Write a technical book
-
----
-
-## 💬 Fun Facts
-
-- 🌍 I've contributed to projects used by over 0 users Except me
-- ☕ I run on coffee and code
-- 🎮 I love gaming and building game mods
-- 📚 I read at least 2 technical books per month
-- 🚀 I'm fascinated by space technology
-
----
-
-## 🙏 Acknowledgments
-
-- Thank you to all my collaborators and mentors
-- The open source community for inspiration
-- Everyone who has starred or used my projects
-
----
-
-## 📜 License
-
-This profile is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<p align="center">
-  <img src="https://img.freepik.com/free-vector/thank-you-lettering_1262-6963.jpg?t=st=1758723908~exp=1758727508~hmac=cf6f542f4eb27c9ed6ecf61873cb84c3aeb5510a2c05b2c1793e48f9fab6be30&w=1060" 
-       alt="Footer" 
-       style="width: 50%; border-radius: 50%; object-fit: cover; aspect-ratio: 1/1;">
-</p>
-
-<p align="center">
-  <i>Last updated: <b>September 2025</b></i>
-</p>
-
----
+</div>
+```
