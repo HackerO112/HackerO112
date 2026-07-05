@@ -123,6 +123,4 @@ I'm always open to conversations about cybersecurity, personal DevOps automation
 <i>Thanks for visiting. Now go delete the fake badges on your profile. 😉</i>
 
 </div>
-```
 
-Copy and paste this directly into your `README.md`, commit it, and watch the stats load perfectly!
