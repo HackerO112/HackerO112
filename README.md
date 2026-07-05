@@ -90,8 +90,6 @@ The core databases of my learning journey.
 *No fake stars. No inflated stats. Just the raw graph of a student building systems in public.*
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HackerO112&theme=github-dark-blue&hide_border=true&background=0d1117&token=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" alt="GitHub Streak" />
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=HackerO112&show_icons=true&theme=github-dark-blue&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&token=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" alt="GitHub Stats" />
 </p>
 
